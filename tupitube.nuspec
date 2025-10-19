@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>tupitube.desk</id>
+    <version>0.2.23</version>
+    <title>TupiTube Desk</title>
+    <authors>Utopian Lab LLC</authors>
+    <projectUrl>https://tupitube.com</projectUrl>
+    <licenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</licenseUrl>
+    <projectSourceUrl>https://github.com/utopianlabco/tupitube.desk</projectSourceUrl>
+    <packageSourceUrl>https://github.com/utopianlabco/chocolatey-tupitube</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/utopianlabco/tupitube.desk/issues</bugTrackerUrl>
+    <iconUrl>https://tupitube.com/assets/logo/tupitube.png</iconUrl>
+	<copyright>Copyright © Utopian Lab LLC</copyright>
+    <tags>tupitube animation 2d drawing education school students foss cross-platform</tags>
+    <summary>2D animation tool designed for children and schools to learn animation basics</summary>
+    <description>
+TupiTube Desk is a 2D animation tool designed to introduce children and teenagers to the world of animation in an easy and fun way. This free and open-source software provides:
+
+- Simple interface suitable for beginners
+- Multiple animation techniques
+- Educational resources for classrooms
+- Tools for both desktop and mobile devices
+
+Our goal is to promote animation as a communication and learning resource in educational environments while helping discover the next generation of talented artists.
+
+Perfect for schools, educators, and young aspiring animators.
+    </description>
+    <releaseNotes>https://github.com/utopianlabco/tupitube.desk/releases</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
